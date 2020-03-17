@@ -35,6 +35,9 @@ body {
 .main-content {
     display: contents;
 }
+.MuiGrid-container {
+    padding-top: 100px;
+}
 
 .main-description {
     font-size: 2.5em;
